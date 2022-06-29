@@ -5,6 +5,7 @@
 
 Here are som
 
+![Z5cP](https://user-images.githubusercontent.com/94965949/176406817-7807bc46-23c4-4593-a027-2c051d26f076.gif)
 
 
 e ideas to get you started:
@@ -18,5 +19,5 @@ e ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Z5cP](https://user-images.githubusercontent.com/94965949/176406243-371e0270-24f6-4c30-bf4a-1b4bb53768b4.gif)
+
 ![XOsX](https://user-images.githubusercontent.com/94965949/176406518-e985b7f5-44af-439f-9614-772385c89c64.gif)
