@@ -5,7 +5,8 @@
 
 Here are som
 
-https://user-images.githubusercontent.com/94965949/176403836-96cc9d4e-16af-42bb-bd67-4e9c86d0e276.mp4
+![test gif](https://user-images.githubusercontent.com/94965949/176405859-889842b1-2a95-4419-b213-425d12b4fe9e.gif)
+
 
 e ideas to get you started:
 
