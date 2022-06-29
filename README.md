@@ -5,7 +5,6 @@
 
 Here are som
 
-![test gif](https://user-images.githubusercontent.com/94965949/176405859-889842b1-2a95-4419-b213-425d12b4fe9e.gif)
 
 
 e ideas to get you started:
@@ -20,3 +19,4 @@ e ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Z5cP](https://user-images.githubusercontent.com/94965949/176406243-371e0270-24f6-4c30-bf4a-1b4bb53768b4.gif)
+![XOsX](https://user-images.githubusercontent.com/94965949/176406518-e985b7f5-44af-439f-9614-772385c89c64.gif)
