@@ -3,7 +3,11 @@
 <!--
 **allangmz/allangmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are som
+
+https://user-images.githubusercontent.com/94965949/176403836-96cc9d4e-16af-42bb-bd67-4e9c86d0e276.mp4
+
+e ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
