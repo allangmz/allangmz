@@ -1,3 +1,8 @@
+# Profil GitHub de Allan GUEMAZI
+
+Bienvenue sur mon profil GitHub ! Je suis Allan GUEMAZI, un développeur junior étudiant à l'école 42 Mulhouse.
+
+
 ## Projets du Tronc Commun
 
 Voici une liste de mes projets réalisés dans le cadre du tronc commun à l'école 42 Mulhouse :
