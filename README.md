@@ -1,4 +1,4 @@
-# Profil GitHub de Allan GUEMAZI
+# Profil GitHub
 
 Bienvenue sur mon profil GitHub ! Je suis Allan GUEMAZI, un développeur junior étudiant à l'école 42 Mulhouse.
 
