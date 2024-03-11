@@ -22,16 +22,16 @@ Voici une liste de mes projets réalisés dans le cadre du tronc commun à l'éc
 5. **philosophers** - Implémentation du problème des philosophes avec des threads et des mutex en C.
    - [Lien vers le projet](https://github.com/allangmz/philosophers)
  
-6. **minishell** - Implémentation simplifiée d'un shell en C.
+6. **minishell** - en groupe de 2 - Implémentation simplifiée d'un shell en C.
    - [Lien vers le projet](https://github.com/allangmz/minishell)
  
-7. **cub3D** - Projet de réalisation d'un moteur de jeu en 3D inspiré du jeu Wolfenstein 3D.
+7. **cub3D** - en groupe de 2 - Projet de réalisation d'un moteur de jeu en 3D inspiré du jeu Wolfenstein 3D.
    - [Lien vers le projet](https://github.com/allangmz/cub3D)
  
-8. **ft_irc** - Implémentation d'un serveur et d'un client IRC en C.
+8. **ft_irc** - en groupe de 3 - Implémentation d'un serveur et d'un client IRC en C.
    - [Lien vers le projet](https://github.com/allangmz/ft_irc)
      
-9. **transcendance** - Projet de création d'un site web dynamique.
+9. **transcendance** - en groupe 5 - Projet de création d'un site web dynamique.
    - [Lien vers le projet](https://github.com/allangmz/transcendance)
 
 + piscine C++
