@@ -34,7 +34,7 @@ Voici une liste de mes projets réalisés dans le cadre du tronc commun à l'éc
 9. **transcendance** - en groupe 5 - Projet de création d'un site web dynamique.
    - [Lien vers le projet](https://github.com/allangmz/transcendance)
 
-+ piscine C++
++ piscine C, C++, PYTHON
 
 ## Norme 42
 
