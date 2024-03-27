@@ -19,10 +19,10 @@ Voici une liste de mes projets réalisés dans le cadre du tronc commun à l'éc
 4. **pipex** - Implémentation d'un mini-shell capable de rediriger les flux entre deux commandes.
    - [Lien vers le projet](https://github.com/allangmz/pipex)
  
-5. **philosophers** - Implémentation du problème des philosophes avec des threads et des mutex en C.
+5. **philosophers** - Implémentation du problème "Dîner des philosophes" avec des threads et des mutex en C.
    - [Lien vers le projet](https://github.com/allangmz/philosophers)
  
-6. **minishell** - en groupe de 2 - Implémentation simplifiée d'un shell en C.
+6. **minishell** - en groupe de 2 - Implémentation d'un shell minimaliste en C.
    - [Lien vers le projet](https://github.com/allangmz/minishell)
  
 7. **cub3D** - en groupe de 2 - Projet de réalisation d'un moteur de jeu en 3D inspiré du jeu Wolfenstein 3D.
@@ -31,7 +31,7 @@ Voici une liste de mes projets réalisés dans le cadre du tronc commun à l'éc
 8. **ft_irc** - en groupe de 3 - Implémentation d'un serveur et d'un client IRC en C.
    - [Lien vers le projet](https://github.com/allangmz/ft_irc)
      
-9. **transcendance** - en groupe 5 - Projet de création d'un site web dynamique.
+9. **transcendance** - en groupe 5 - Développer une Single Page Application permettant de jouer à Pong en ligne.
    - [Lien vers le projet](https://github.com/allangmz/transcendance)
 
 + piscine C, C++, PYTHON
